@@ -1,6 +1,6 @@
-# Desafio 2 Java Spring Professional - DevSuperior
+# Desafio Modelo de domínio e ORM - Java Spring Professional
 
-Esse projeto consiste no segundo desafio da formação Java Spring Professional da plataforma Devsuperior.
+Projeto desenvolvido como parte do segundo desafio da formação Java Spring Professional, da plataforma Devsuperior
 
 ## Tecnologias
 
@@ -21,6 +21,14 @@ O objetivo é construir um sistema para gerenciar as informações dos participa
 ## Instância dos dados para seeding
 
 <img width="1072" height="704" alt="Image" src="https://github.com/user-attachments/assets/dc694c61-d9ea-4086-95a6-ad449122798b" />
+
+## Critérios de avaliação
+
+- Projeto executando sem erros
+- Base de dados criada corretamente
+- Todas tabelas criadas
+- O seed do banco contém pelo menos 4 participantes, 2 atividades, 2 categorias e 3 blocos
+- Os dados do seed correspondem aos dados que foram apresentados no enunciado
 
 ## Competências avaliadas
 
